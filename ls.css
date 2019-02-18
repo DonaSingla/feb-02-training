@@ -1,0 +1,17 @@
+.center{display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+    
+
+
+#dona1{
+     background-color: rgb(7, 0, 4);
+     height: 15px;
+     width: 400px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: auto;
+     margin-top:auto;
+
+}
